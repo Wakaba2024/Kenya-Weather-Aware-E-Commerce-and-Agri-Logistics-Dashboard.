@@ -1,0 +1,12 @@
+[project]
+name = "kenya-weather-aware-logistics"
+version = "0.1.0"
+description = "Kenya Weather Aware E-Commerce and Agri-Logistics Dashboard"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "db>=0.1.1",
+    "faker>=40.1.2",
+    "psycopg2>=2.9.11",
+    "requests>=2.32.5",
+]
